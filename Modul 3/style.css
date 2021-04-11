@@ -1,0 +1,71 @@
+body{
+	height: 420px;
+	background-color: lightblue;
+}
+
+div.updt{
+	padding : 30px 20px 60px 20px;
+	margin: 5% 20% 10% 20%;
+	border: 1px solid white;
+	border-radius: 20px;
+	background-color: white;
+	box-shadow: 3px 3px 10px #000000;
+}
+
+div.TabelKaryawan{
+	padding : 30px 20px 60px 20px;
+	margin: 5% 10% 10% 10%;
+	border: 1px solid white;
+	border-radius: 20px;
+	background-color: white;
+	box-shadow: 3px 3px 10px #000000;
+}
+
+div.TambahKaryawan{
+	padding : 30px 20px 60px 20px;
+	margin: 5% 20% 10% 20%;
+	border: 1px solid white;
+	border-radius: 20px;
+	background-color: white;
+	box-shadow: 3px 3px 10px #000000;
+}
+
+div.tengah{
+	margin-top: 6px;
+	margin-bottom: 6px;
+	text-align: center;
+	font-weight: bold;
+}
+
+div.tabeltengah{
+	margin-top: 6px;
+	margin-bottom: 6px;
+	margin-left: 120px;
+	margin-right: 20px;
+}
+
+.rad{
+	margin: 0% 45% 0% 45%;
+	background-color: white;
+	padding : 5px 5px 5px 5px;
+	border-radius: 5px;
+	text-align: center;
+	border: 2px solid black;
+}
+
+.table1 {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+ 
+.table1, th, td {
+    border: 1px solid #999;
+    padding: 8px 20px;
+}
+
+.warn{
+	color: #ff0000;
+	font-style: italic;
+	font-weight: lighter;
+}
