@@ -16,3 +16,6 @@ Repo ini berisi laporan praktikum mata kuliah pemrograman web dan mobile I, bese
   
 #modul 5 
   Pada modul 5 ini akan membahas mengenai langkah-langkah melakukan instalasi komponen-komponen atau aplikasi atau package yang diperlukan untuk menggunakan React Native dan membuat dan mengembangkan sebuah aplikasi sederhana dari Framework tersebut.
+
+#modul 6
+  Pada modul 6 ini akan membuat sebuah aplikasi React Native dengan fitur search filter. Fitur ini berfungsi untuk mencari data tertentu pada list yang tersedia dengan cara mencocokkan huruf atau kata yang diinputkan dengan nama yang ada dalam kumpulan data pada list.  
